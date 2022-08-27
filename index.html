@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <title>Frontend Mentor | Interactive rating component</title>
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">
+  <!-- Fonts link -->
+  <link href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <!-- Rating state start -->
+
+  <div id="rating" class="container-fluid box">
+
+    <div class="btn-con pl-3">
+      <div class="circle m-0">
+        <img class="star" src="images/icon-star.svg" alt="">
+      </div>
+    </div>
+
+    <div class="statement">
+      <h3>How did we do?</h3>
+      <p class="paragraph"> Please let us know how we did with your support request. All feedback is appreciated
+        to help us improve our offering! </p>
+    </div>
+
+    <div class="buttons-container w-100">
+
+      <div class="btn-con"> <button class="number circle btn btn-light" type="button" ranking="1">1</button> </div>
+      <div class="btn-con"> <button class="number circle btn btn-light" type="button" ranking="2">2</button> </div>
+      <div class="btn-con"> <button class="number circle btn btn-light" type="button" ranking="3">3</button> </div>
+      <div class="btn-con"> <button class="number circle btn btn-light" type="button" ranking="4">4</button> </div>
+      <div class="btn-con"> <button class="number circle btn btn-light" type="button" ranking="5">5</button> </div>
+
+    </div>
+
+      <div class="pl-4 pr-4 pt-2 pb-2">
+        <button class="btn btn-light submitButton w-100 p-2 mt-2" type="submit" name="button">SUBMIT</button>
+      </div>
+
+
+
+  </div>
+  <!-- Rating state end -->
+
+
+  <!-- Thank you state start -->
+
+  <div id="thanking" class="container-fluid box">
+
+    <div class="thankyou-image">
+      <img src="images\illustration-thank-you.svg" alt="">
+    </div>
+
+    <div class="rating-container">
+      <div class="w-50 m-auto rating">
+        <p>You selected out of 5
+        </p>
+      </div>
+    </div>
+
+    <div class="statement">
+      <h3>Thank you!</h3>
+      <p class="p-2">We appreciate you taking the time to give a rating. If you ever need more support,
+        don’t hesitate to get in touch!</p>
+    </div>
+
+  </div>
+
+    <!-- Thank you state end -->
+
+    <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by <a href="#">ladyMariele</a>.
+    </div>
+
+  <script src="jquery-3.6.0.js" charset="utf-8"></script>
+  <script src="rating.js" charset="utf-8"></script>
+</body>
+
+</html>
