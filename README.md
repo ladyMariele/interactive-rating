@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution preview for the Interactive rating component coding challenge](./images/screenshot.jpg)
+![Solution preview for the Interactive rating component coding challenge](/images/screenshot.jpg)
 
 ### Links
 
