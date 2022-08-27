@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution preview for the Interactive rating component coding challenge](/images/screenshot.jpg)
+![Solution preview for the Interactive rating component coding challenge](https://github.com/ladyMariele/interactive-rating/blob/8422a189bf80287ef2f9003b79b4eddd95cc3119/images/screenshot.png)
 
 ### Links
 
