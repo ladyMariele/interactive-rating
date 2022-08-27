@@ -8,8 +8,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -32,10 +31,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://ladymariele.github.io/interactive-rating))
-
-## My process
-
-  It's kinda intuitive it's hard to put into words lol
 
 ### Built with
 
