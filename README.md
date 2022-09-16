@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://ladymariele.github.io/interactive-rating))
+- Solution URL: [here](https://www.frontendmentor.io/solutions/interactive-rating-component-using-html5-css-and-javascript-wyEcGx_XRN)
+- Live Site URL: [here](https://ladymariele.github.io/interactive-rating)
 
 ### Built with
 
