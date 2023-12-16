@@ -38,6 +38,7 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Bootstrap
+- jQuery
 
 ## Author
 
@@ -47,4 +48,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-i sometimes find CSS to be annoying so thanks to my personal mentor who helped me with some of the important CSS codes here. i owe you french fries.
+I sometimes find CSS to be annoying so thanks to my personal mentor who helped me with some of the important CSS codes here. I owe you french fries.
